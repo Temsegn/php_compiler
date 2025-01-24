@@ -1,0 +1,4 @@
+$age	float	2.3	4
+$a	string	"hello"	3
+$b	char	'd'	5
+$x	int	33	6
